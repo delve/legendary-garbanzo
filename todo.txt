@@ -1,0 +1,9 @@
+setup profiling & script to run a 1000x profile on each available algo
+
+implement anchorLookaround properly (currently just a copy of junk from my Advent of Code solve for 2024/04)
+
+implement halfstar algo from Adam Farmer
+
+implement a fullstar algo?
+
+implement a rolling halfstar/fullstar?
